@@ -21,6 +21,7 @@ CORE_FILES = [
 
 # Template content for README.md exactly as provided by the user
 README_TEMPLATE = """# About
+- https://github.com/XXXXXX/XXXXXXXXXXXXXXXXXX.git
 - ABOUT THE PROJECT NAME
 - ABOUT THE PROJECT
 
