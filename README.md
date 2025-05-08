@@ -13,6 +13,7 @@
 - create copy_files.py
 ## v002
 - create_new_CHROME_project.py
+- added .env to projects
 - change py script to flask project template
 
 
@@ -26,5 +27,5 @@ git fetch origin; git checkout master; git reset --hard 1eaef8b; git clean -fdx
 
 ## Update repository
 git add .  
-git commit -m "create_new_CHROME_project.py"  
+git commit -m "added .env to projects"  
 git push

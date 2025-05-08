@@ -13,6 +13,7 @@ CORE_DIR_NAME = 'core'
 ADDITIONAL_FILES = [
     'run.py',
     'README.md',
+    '.env',
     '.gitignore',
 ]
 # List of core files to create inside the core directory
