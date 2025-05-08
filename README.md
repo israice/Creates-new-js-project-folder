@@ -6,17 +6,13 @@
 
 # DEV Log
 ## v001
-- create create_new_js_project.py 
+- create create_new_JS_project.py 
 - add README.md creation
 - add data to README.md
+- create_new_PY_project.py
+- create copy_files.py
 
 
-# Github CHEATSHEET
-## Create new repository
-git init  
-git add .  
-git commit -m "create create_new_js_project.py"  
-gh repo create  
 
 ## Load last updates and replace existing local files
 git fetch origin; git reset --hard origin/master; git clean -fd  
@@ -27,5 +23,5 @@ git fetch origin; git checkout master; git reset --hard 1eaef8b; git clean -fdx
 
 ## Update repository
 git add .  
-git commit -m "add data to README.md"  
+git commit -m "create copy_files.py"  
 git push
