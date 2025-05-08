@@ -1,6 +1,6 @@
 # About
 - https://github.com/israice/Creates-new-js-project-folder.git
-- Creates new js project folder
+- Creates new project folder on JavaScript or Python
 
 
 
@@ -11,6 +11,9 @@
 - add data to README.md
 - create_new_PY_project.py
 - create copy_files.py
+## v002
+- create_new_CHROME_project.py
+- change py script to flask project template
 
 
 
@@ -23,5 +26,5 @@ git fetch origin; git checkout master; git reset --hard 1eaef8b; git clean -fdx
 
 ## Update repository
 git add .  
-git commit -m "create copy_files.py"  
+git commit -m "create_new_CHROME_project.py"  
 git push
