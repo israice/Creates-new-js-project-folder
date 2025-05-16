@@ -17,7 +17,7 @@
 - added .env to projects
 ## v003
 - added flask completed start with html css js
-
+- fixed copy_files.py
 
 
 ## Load last updates and replace existing local files
@@ -29,5 +29,5 @@ git fetch origin; git checkout master; git reset --hard 1eaef8b; git clean -fdx
 
 ## Update repository
 git add .  
-git commit -m "added flask completed start with html css js"  
+git commit -m "fixed copy_files.py"  
 git push

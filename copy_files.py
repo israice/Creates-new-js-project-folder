@@ -5,9 +5,9 @@ current_dir = os.path.abspath(os.getcwd())
 parent_dir = os.path.abspath(os.path.join(current_dir, os.pardir))
 
 files_to_copy = [
-    'create_new_JS_project.py',
-    'create_new_PY_project.py',
-    'create_new_CHROME_project.py',
+    'new_JS_project.py',
+    'new_FLASK_project.py',
+    'new_CHROME_project.py',
 ]
 
 for filename in files_to_copy:
