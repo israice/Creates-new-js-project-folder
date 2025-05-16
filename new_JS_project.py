@@ -11,18 +11,21 @@ PREFIX_WIDTH = 2
 CORE_DIR_NAME = 'core'
 # List of additional files to create in the base directory
 ADDITIONAL_FILES = [
-    'run.py',
-    'README.md',
     '.env',
     '.gitignore',
+    'README.md',
+    'run.js',
 ]
-# List of core files to create inside the core directory
+# List of core files to create inside the 'core' directory
 CORE_FILES = [
-    'A_run.py',
+    'index.html',
+    'style.css',
+    'script.js',
 ]
 
 # Template content for README.md exactly as provided by the user
-README_TEMPLATE = """# About
+README_TEMPLATE = """
+# About
 - https://github.com/XXXXXX/XXXXXXXXXXXXXXXXXX.git
 - ABOUT THE PROJECT NAME
 - ABOUT THE PROJECT

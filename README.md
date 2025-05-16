@@ -1,8 +1,9 @@
 # About
 - https://github.com/israice/Creates-new-js-project-folder.git
-- Creates new project folder on JavaScript or Python
-
-
+- Creates new project folder for 
+    - Python
+    - JavaScript 
+    - Chrome Extention 
 
 # DEV Log
 ## v001
@@ -14,7 +15,8 @@
 ## v002
 - create_new_CHROME_project.py
 - added .env to projects
-- change py script to flask project template
+## v003
+- added flask completed start with html css js
 
 
 
@@ -27,5 +29,5 @@ git fetch origin; git checkout master; git reset --hard 1eaef8b; git clean -fdx
 
 ## Update repository
 git add .  
-git commit -m "added .env to projects"  
+git commit -m "added flask completed start with html css js"  
 git push

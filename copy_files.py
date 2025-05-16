@@ -17,3 +17,5 @@ for filename in files_to_copy:
     if os.path.exists(src_path):
         # Copy the file and overwrite if it already exists
         shutil.copy2(src_path, dest_path)
+
+print(f"- - - ✅ Files copied to {parent_dir}")
