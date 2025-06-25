@@ -88,6 +88,7 @@ Feel free to fork, suggest improvements, or submit PRs!
 - file names changed to create_new_project.py and add_file_to_Projects_Folder.py
 - README.md file updated in creation
 - and the project README.md updated also
+- added collection of markdown_for_github.md
 
 ### FUTURE PLANS
 
@@ -116,7 +117,7 @@ git fetch origin; git checkout master; git reset --hard 1eaef8b; git clean -fdx
 ## Update repository
 
 git add .  
-git commit -m "and the project README.md updated also"  
+git commit -m "added collection of markdown_for_github.md"  
 git push
 
 </details>
